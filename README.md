@@ -5,4 +5,4 @@ Crowdflower Search Results Relevance
 
 https://www.kaggle.com/shwartz88/crowdflower-search-relevance/searchrev/code
 
-![image]("bm-code.png")
+![]("bm-code.png")
